@@ -1,5 +1,5 @@
 ---
-name: Bug Report
+name: Bug Report 02
 about: Report a bug to help us improve LangManus
 title: ''
 labels: bug
